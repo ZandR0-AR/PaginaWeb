@@ -1,0 +1,47 @@
+[
+
+  {
+    "name": "Proyecto Local - Plataforma de Administración y Mapeo",
+    "desc": "Tecnologías: HTML, Tailwind CSS, JS, CodeIgniter 4 (REST API), MySQL, DataTable, ChartJS, SweetAlert.",
+    "image": "local",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/ZandR0-AR/ProyectoPHP.git",
+      "code": "https://github.com/ZandR0-AR/ProyectoPHP.git"
+    }
+  }, 
+  {
+    "name": "Gestión minima para una Óptica",
+    "desc": " Sistema para gestionar pacientes, productos y servicios. HTML, CSS, JS, Django, MySQL, DataTable, ChartJS, SweetAlert.",
+    "image": "opticore",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/ZandR0-AR/ProyectoOpticore",
+      "code": "https://github.com/ZandR0-AR/ProyectoOpticore"
+    }
+  },
+  
+  {
+    "name": "Página Web Informativa",
+    "desc": "Sitio web creado para promocionar el Museo Rumiñahui y su aplicación móvil. HTML, CSS, JS, Bootstrap.",
+    "image": "museo",
+    "category": "basicweb",
+    "links": {
+      "view": "https://magenta-tarsier-ee4c5e.netlify.app/",
+      "code": "https://magenta-tarsier-ee4c5e.netlify.app/"
+    }
+  },
+  {
+    "name": "Soporte Tecnico y Mantenimiento",
+    "desc": "Realizar soporte técnico y mantenimiento preventivo y correctivo a equipos de cómputo, impresoras y redes.",
+    "image": "banners",
+    "category": "basicweb",
+    "links": {
+      "view": "https://www.linkedin.com/in/lizandro-david-arcos-naranjo-915179324/",
+      "code": "https://www.linkedin.com/in/lizandro-david-arcos-naranjo-915179324/"
+    }
+    
+  }
+]
+
+
