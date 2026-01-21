@@ -1,14 +1,14 @@
 [
 
   {
-    "name": "Proyecto Local - Plataforma de Administración y Mapeo",
-    "desc": "Tecnologías: HTML, Tailwind CSS, JS, CodeIgniter 4 (REST API), MySQL, DataTable, ChartJS, SweetAlert.",
-    "image": "local",
-    "category": "mern",
-    "links": {
-      "view": "https://github.com/ZandR0-AR/ProyectoPHP.git",
-      "code": "https://github.com/ZandR0-AR/ProyectoPHP.git"
-    }
+  "name": "Juego Educativo Interactivo – UCE",
+  "desc": "Juego educativo desarrollado en Unity para estudiantes de la Universidad Central del Ecuador (UCE). Incluye preguntas de operaciones matemáticas básicas, mecánicas de movimiento, salto e interacción con enemigos, con escenarios educativos y dinámicos orientados al aprendizaje lúdico.",
+  "image": "uce-game",
+  "category": "game",
+  "links": {
+    "view": "https://github.com/ZandR0-AR/JuegoEducativoUCE",
+    "code": "https://github.com/ZandR0-AR/JuegoEducativoUCE"
+  }
   }, 
   {
     "name": "Gestión minima para una Óptica",
@@ -41,7 +41,18 @@
       "code": "https://www.linkedin.com/in/lizandro-david-arcos-naranjo-915179324/"
     }
     
+  },
+  {
+    "name": "Proyecto Local - Plataforma de Administración y Mapeo",
+    "desc": "Tecnologías: HTML, Tailwind CSS, JS, CodeIgniter 4 (REST API), MySQL, DataTable, ChartJS, SweetAlert.",
+    "image": "local",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/ZandR0-AR/ProyectoPHP.git",
+      "code": "https://github.com/ZandR0-AR/ProyectoPHP.git"
+    }
   }
+  
 ]
 
 
